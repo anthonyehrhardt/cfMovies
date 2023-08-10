@@ -1,3 +1,3 @@
 # cfMovies
-search and get random movies with public API
-coldfusion ansd vanilla javascript
+Search and get random movies new releases with public API
+coldfusion and vanilla javascript
